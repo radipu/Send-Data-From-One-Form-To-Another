@@ -1,0 +1,11 @@
+C:\Users\raddu\source\repos\SendDataToAnotherForm\bin\Debug\SendDataToAnotherForm.exe.config
+C:\Users\raddu\source\repos\SendDataToAnotherForm\bin\Debug\SendDataToAnotherForm.exe
+C:\Users\raddu\source\repos\SendDataToAnotherForm\bin\Debug\SendDataToAnotherForm.pdb
+C:\Users\raddu\source\repos\SendDataToAnotherForm\obj\Debug\SendDataToAnotherForm.csproj.AssemblyReference.cache
+C:\Users\raddu\source\repos\SendDataToAnotherForm\obj\Debug\SendDataToAnotherForm.Form1.resources
+C:\Users\raddu\source\repos\SendDataToAnotherForm\obj\Debug\SendDataToAnotherForm.Form2.resources
+C:\Users\raddu\source\repos\SendDataToAnotherForm\obj\Debug\SendDataToAnotherForm.Properties.Resources.resources
+C:\Users\raddu\source\repos\SendDataToAnotherForm\obj\Debug\SendDataToAnotherForm.csproj.GenerateResource.cache
+C:\Users\raddu\source\repos\SendDataToAnotherForm\obj\Debug\SendDataToAnotherForm.csproj.CoreCompileInputs.cache
+C:\Users\raddu\source\repos\SendDataToAnotherForm\obj\Debug\SendDataToAnotherForm.exe
+C:\Users\raddu\source\repos\SendDataToAnotherForm\obj\Debug\SendDataToAnotherForm.pdb
